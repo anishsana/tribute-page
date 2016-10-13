@@ -1,0 +1,36 @@
+.main {
+  padding: 60px;
+}
+
+.main-background {
+  background-color: #d3d3d3;
+  padding: 60px;
+}
+
+.img-block {
+  background-color: white;
+/*   margin-right: 150px;
+  margin-left: 150px; */
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+#picture {
+  padding: 5px;
+}
+
+.picture-text {
+  padding-bottom: 5px;
+}
+
+.listing {
+  margin-top: 50px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#quote {
+  padding: 3%;
+  font-size: 20px;
+  font-weight: lighter;
+}
